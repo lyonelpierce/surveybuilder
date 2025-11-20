@@ -2,6 +2,10 @@
 
 ## Get Started
 
+git clone <url>
+
+cd surveybuilder
+
 Run `npm install`
 
 Run `npm run dev` to run the app on `localhost:3000`
